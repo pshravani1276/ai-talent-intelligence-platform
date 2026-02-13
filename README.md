@@ -141,7 +141,7 @@ https://drive.google.com/drive/folders/1nw_AKX-p6h4h-hdbVWwrOkoos2e2FGDa
 ## 📂 GitHub Repository
 
 🔗 Repository Link:  
-(Your GitHub repo link here)
+https://github.com/pshravani1276/ai-talent-intelligence-platform
 
 ---
 
